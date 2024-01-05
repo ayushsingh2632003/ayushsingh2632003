@@ -2,7 +2,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFbi0XKIlDdwQ/profile-displaybackgroundimage-shrink_350_1400/0/1683626652191?e=1691625600&v=beta&t=zPbFrL7HXSDehbt745550PPVKTR5_siH5bZqO8kBRY4)
 
 <h1 align="center">Hi 👋, I'm AYUSH SINGH</h1>
-<h3 align="center">ML developer</h3>
+<h3 align="center">ML ENGINEER </h3>
 <img align="right" alt="CODING" width ="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
