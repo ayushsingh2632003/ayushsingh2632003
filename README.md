@@ -8,14 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayush2632003" target="blank"><img src="https://img.shields.io/twitter/follow/ayush2632003?logo=twitter&style=for-the-badge" alt="ayush2632003" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning**
-
-- 💬 Ask me about **html , python , java ,c++ ,cloud, machine learning , neural network.**
-
 - 📫 How to reach me **ayushsingh2632003@gmail.com**
-
-- ⚡ Fun fact **Learn for Earn**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayush2632003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush2632003" height="30" width="40" /></a>
